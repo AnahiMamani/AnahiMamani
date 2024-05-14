@@ -7,8 +7,8 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
 
 <br>
-
-Ever since I joined GitHub **7** years ago, I pushed **24155** commits, opened **403** issues, submitted **1003** pull requests, received **16461** stars across **115** personal projects, and contributed to **175** public repositories.
+<a href="https://git.io/streak-stats"><img width='450' align='right' src="https://streak-stats.demolab.com?user=AnahiMamani&theme=dark" alt="GitHub Streak" /></a>
+Ever since I joined GitHub **7** years ago, I pushed **24155** commits, opened **403** issues, suddddddddddddddddddddddddddddddddddddddddddddddddddddbmitted **1003** pull  sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd requests, received **16461** stars across **115** personal projects, and contributed to **175** public repositories.
 
 Here is a list of my **personal projects**:
 ### Languages
@@ -30,4 +30,4 @@ Here is a list of my **personal projects**:
 <img src='https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true' width='400'/>
 <img src='[https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true](https://streak-stats.demolab.com?user=AnahiMamani&theme=dark&border_radius=4.4)' width='400'/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnahiMamani&theme=dark" alt="GitHub Streak" /></a>
+
