@@ -26,8 +26,6 @@ Here is a list of my **personal projects**:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### My Github Stats:
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiMamani&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true' width='400'/>
-<img src='https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true' width='400'/>
-<img src='[https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true](https://streak-stats.demolab.com?user=AnahiMamani&theme=dark&border_radius=4.4)' width='400'/>
+<a href="https://www.adamalston.com/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiMamani&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" /></a>
 
 
