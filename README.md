@@ -1,10 +1,10 @@
 
 <img width='125' align="left" src="https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png">
 <hr>
+
 ### Hey!
 Ola, meu nome é **Anahi** aqui buscar aprofundar meus conhecimentos para lograr o tão sonhado Full Stack.
 
-<br>
 <hr>
 <a href="https://git.io/streak-stats"><img width='450' align='right' src="https://streak-stats.demolab.com?user=AnahiMamani&theme=dark" alt="GitHub Streak" /></a>
 
