@@ -9,7 +9,9 @@ Ola, meu nome é **Anahi** aqui buscar aprofundar meus conhecimentos para lograr
 
 ### Sobre mim!
 
-Estou focada em desenvolver projetos para enriquecer meu portfólio pessoal. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para crescer profissionalmente. Estou ansiosa para compartilhar meu trabalho e contribuir para o campo da tecnologia de forma significativa. Além disso, possuo habilidades técnicas em programação, design de software e desenvolvimento para múltiplas plataformas.
+Estou focada em desenvolver projetos para enriquecer meu portfólio pessoal. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para crescer profissionalmente. Estou ansiosa para compartilhar meu trabalho e contribuir para o campo da tecnologia. Além disso, possuo habilidades técnicas em programação, design de software e desenvolvimento para múltiplas plataformas.
+
+<hr>
 
 ### Languages
 
