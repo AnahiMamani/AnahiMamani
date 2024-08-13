@@ -32,9 +32,3 @@ Estou focada em desenvolver projetos para enriquecer meu portfólio pessoal. Sou
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000?&logo=intellijidea)
 ![visual](https://img.shields.io/badge/Visual%20Studio-000?&logo=visualstudiocode)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-
-### My Github Stats:
-<a href="https://www.adamalston.com/"><img height="175px" src="https://github-readme-stats.vercel.app/api?username=AnahiMamani&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiMamani&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" /></a>
-
-
