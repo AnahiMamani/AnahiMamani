@@ -46,7 +46,7 @@ Atualmente, me dedico a aprofundar conhecimentos em:
 
 Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, me encontre por aqui:  
 
-🌎 **LinkedIn:** [linkedin.com/in/seulinkedin]([https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/anahinarieli/))  
-📂 **Portfólio:** [seusite.com]([https://seusite.com](https://github.com/AnahiMamani/Portifolio))  
+🌎 **LinkedIn:** [linkedin.com/in/anahinarieli](https://www.linkedin.com/in/anahinarieli/)  
+📂 **Portfólio:** [GitHub Portfólio](https://github.com/AnahiMamani/Portifolio)
 
 💬 **Vamos construir algo incrível juntos!** 🚀
