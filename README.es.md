@@ -2,7 +2,7 @@
 
 ### 🏆 ¡Hola! ¡Bienvenido(a)! 👋  
 
-<img width="150" align="left" src="https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png">  
+<img width="150" align="left" src="[https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png](https://res.cloudinary.com/dhohvxvw7/image/upload/v1763951765/305434c6b4a36d88d6b491a72383afd1_h9zres.jpg)">  
  
 ¡Hola! Mi nombre es **Anahi** y me apasiona la tecnología. Actualmente, estoy profundizando mis conocimientos en Bases de Datos, explorando desde modelado y normalización hasta optimización de consultas y administración de sistemas de bases de datos.
 
