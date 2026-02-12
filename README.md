@@ -1,7 +1,9 @@
 🌎 **Idiomas:** [English](README.en.md) | [Español](README.es.md) | [Português](README.md)
 
 ### 🏆 Olá! Seja bem-vindo(a)! 👋  
- 
+
+<img width="150" align="left" src="https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png">  
+
 Olá! Meu nome é **Anahi** e sou apaixonada por tecnologia! Atualmente, estou aprofundando meus conhecimentos em Banco de Dados, explorando desde modelagem e normalização até otimização de consultas e administração de sistemas de banco de dados.
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Zona Leste, onde estou aprimorando minhas habilidades em SQL, NoSQL, arquitetura de dados, indexação e transações. Acredito que um banco de dados bem estruturado é a base para aplicações escaláveis e eficientes.
