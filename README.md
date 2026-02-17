@@ -1,33 +1,26 @@
 🌎 **Idiomas:** [English](README.en.md) | [Español](README.es.md) | [Português](README.md)
 
-### 🏆 Olá! Seja bem-vindo(a)! 👋  
+## 👋 Oi, eu sou a Anahi
 
-<img width="150" align="left" src="https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png">  
+<img width="150" align="left" src="https://raw.githubusercontent.com/AnahiMamani/myimages/master/king.png">
 
-Olá! Meu nome é **Anahi** e sou apaixonada por tecnologia! Atualmente, estou aprofundando meus conhecimentos em Banco de Dados, explorando desde modelagem e normalização até otimização de consultas e administração de sistemas de banco de dados.
+Sou estudante de tecnologia e estagiária em **Engenharia de Dados**, com interesse amplo em **engenharia de software** no geral.  
+Hoje meu foco principal está em **dados, cloud e pipelines**, mas sigo explorando backend, arquitetura de sistemas e desenvolvimento de aplicações em projetos pessoais e acadêmicos.
 
-Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Zona Leste, onde estou aprimorando minhas habilidades em SQL, NoSQL, arquitetura de dados, indexação e transações. Acredito que um banco de dados bem estruturado é a base para aplicações escaláveis e eficientes.
-
-Busco constantemente novos desafios para expandir meu conhecimento e aplicar boas práticas no gerenciamento de dados. Vamos aprender e crescer juntos! 💡
-
----
-
-### 💻 Áreas de Interesse  
-
-Atualmente, me dedico a aprofundar conhecimentos em:  
-
-- 🔹 **Desenvolvimento Web** (Front-End & Back-End)  
-- 🔹 **Banco de Dados** – Modelagem eficiente e otimização de queries  
-- 🔹 **Arquitetura de Software** – Criando sistemas escaláveis e bem estruturados  
-- 🔹 **Segurança da Informação** – Aplicando boas práticas para desenvolvimento seguro  
-
-📚 **Estudando no momento:**  
-- **React & Express** para aplicações web dinâmicas  
-- **DevOps & Automação** para facilitar deploys e CI/CD  
-- **Boas práticas de código** para eficiência e segurança  
+Gosto de entender como os sistemas funcionam por inteiro: da aplicação que gera o dado, até o pipeline que transforma isso em informação útil.  
+Aqui no GitHub você vai encontrar **projetos de dados, projetos em grupo da faculdade e experimentos pessoais**.
 
 ---
 
+## 🧭 No que estou focando agora
+
+- 🔹 Engenharia de Dados (ETL/ELT, modelagem, pipelines)
+- 🔹 Cloud (GCP) e boas práticas de arquitetura
+- 🔹 Bancos de dados (relacionais e NoSQL)
+- 🔹 Backend e integração entre sistemas
+- 🔹 Projetos em grupo (metodologias ágeis, versionamento, organização de código)
+
+---
 ### ⚙️ Linguagens e Tecnologias  
 
 #### 💡 Linguagens  
@@ -43,10 +36,4 @@ Atualmente, me dedico a aprofundar conhecimentos em:
 ---
 
 ### 🚀 Conecte-se comigo  
-
-Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, me encontre por aqui:  
-
 🌎 **LinkedIn:** [linkedin.com/in/anahinarieli](https://www.linkedin.com/in/anahinarieli/)  
-📂 **Portfólio:** [GitHub Portfólio](https://github.com/AnahiMamani/Portifolio)
-
-💬 **Vamos construir algo incrível juntos!** 🚀
