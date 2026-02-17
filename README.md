@@ -21,17 +21,27 @@ Aqui no GitHub você vai encontrar **projetos de dados, projetos em grupo da fac
 - 🔹 Projetos em grupo (metodologias ágeis, versionamento, organização de código)
 
 ---
-### ⚙️ Linguagens e Tecnologias  
+## 🛠️ Tecnologias
 
-#### 💡 Linguagens  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)  
+### 📊 Dados & Cloud
+![Python](https://img.shields.io/badge/Python-000?&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?&logo=postgresql)
+![BigQuery](https://img.shields.io/badge/BigQuery-000?&logo=googlecloud)
+![GCP](https://img.shields.io/badge/GCP-000?&logo=googlecloud)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000?&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?&logo=postgresql)
 
-#### 🔧 Frameworks e Ferramentas  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)  ![React](https://img.shields.io/badge/-React-000?&logo=react)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?&logo=node.js)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?&logo=rubyonrails)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript)
+![Ruby](https://img.shields.io/badge/Ruby-000?&logo=ruby)
 
-#### 🛠️ Ferramentas de Desenvolvimento  
-![Git](https://img.shields.io/badge/Git-000?&logo=git)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?&logo=visualstudiocode&logoColor=blue)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?&logo=intellijidea)  ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide)
+### 🔧 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000?&logo=docker)
+![UML](https://img.shields.io/badge/UML-000?&logo=uml)
 
 ---
 
